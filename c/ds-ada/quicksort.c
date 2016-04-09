@@ -1,3 +1,5 @@
+//This file uses quicksort algorithm to sort a given array in increasing order.
+
 #include<stdio.h>
 int partition(float a[],int left,int right){
   int i,j,t;
